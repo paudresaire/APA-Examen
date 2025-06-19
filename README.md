@@ -1,7 +1,7 @@
 Algorismia i Programació Audiovisual
 ====================================
 
-Examen Final - Primavera de 2025
+Examen Final - Primavera de 2025 - Pau Dresaire
 --------------------------------
 
 <span style="color:red">Importante</span>
@@ -13,9 +13,7 @@ notas aspiradas tiene que ser igual a 16; y si se realiza entre tres, las suma t
 
 | Nombre completo              | Nota Aspirada |
 | ---------------------------- | ------------- |
-| Fulano Martínez Díaz         | 8             |
-| Mengano Díaz Martínez        | 6             |
-| Zutano de la Rosa Florida    | 4             |
+| Pau Dresaire Osete           | 10            |
 
 <span style="color:red">También Importante</span>
 -------------------------------------------------
